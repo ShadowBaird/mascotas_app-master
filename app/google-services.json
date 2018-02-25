@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "75682638079",
+    "firebase_url": "https://pet2help-3ac62.firebaseio.com",
+    "project_id": "pet2help-3ac62",
+    "storage_bucket": "pet2help-3ac62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75682638079:android:40e7c2bf2ddea9a2",
+        "android_client_info": {
+          "package_name": "dismov.mascotas_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75682638079-tjnjcmn6vobkplordekcj24hfo5ebpkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dismov.mascotas_app",
+            "certificate_hash": "08b912d417746fa830590ffc55966c42bd408069"
+          }
+        },
+        {
+          "client_id": "75682638079-0g9ub7c5njhriqu12vr5jrd1p84572au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqvCr4CppxxGkaffbz2S2V09lcpI8nEpg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75682638079-0g9ub7c5njhriqu12vr5jrd1p84572au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

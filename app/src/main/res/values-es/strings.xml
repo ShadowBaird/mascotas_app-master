@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Configuración</string>
+
+    <string name="navigation_text_adoptions">Adopción</string>
+    <string name="navigation_text_lost_pets">Mascotas Pérdidas</string>
+    <string name="navigation_text_another_options">Opciones</string>
+    <string name="navigation_text_logout">Cerrar Sesión</string>
+    <string name="navigation_text_revoke">Revocar Cuenta</string>
+    <string name="navigation_text_exit">Salir</string>
+
+    <!-- Strings related to login -->
+    <string name="title_activity_login">Iniciar sesion</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar sesión</string>
+    <string name="action_sign_in_short">Iniciar sesión</string>
+    <string name="error_invalid_email">Este correo eléctronico es inválido</string>
+    <string name="error_invalid_password">La contraseña es demasiado corta</string>
+    <string name="error_incorrect_password">La contraseña es incorrecta</string>
+    <string name="error_field_required">Este campo es requerido</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="navigation_first_name">Nombre de usuario</string>
+    <string name="not_log_in">No se puede iniciar sesión</string>
+    <string name="not_close_session">No se ha podido cerrar sesión</string>
+    <string name="not_revoke">La cuenta no ha sido revocada</string>
+
+
+</resources>

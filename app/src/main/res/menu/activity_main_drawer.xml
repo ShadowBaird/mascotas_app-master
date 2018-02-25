@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_adoption"
+            android:icon="@drawable/ic_menu_paw"
+            android:title="@string/navigation_text_adoptions" />
+        <item
+            android:id="@+id/nav_lost_pets"
+            android:icon="@drawable/ic_menu_search"
+            android:title="@string/navigation_text_lost_pets" />
+    </group>
+
+    <item android:title="@string/navigation_text_another_options">
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_menu_logout"
+                android:title="@string/navigation_text_logout" />
+<!--            <item
+                android:id="@+id/nav_revoke"
+                android:icon="@drawable/ic_menu_logout"
+                android:title="@string/navigation_text_revoke" />-->
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/ic_menu_exit"
+                android:title="@string/navigation_text_exit" />
+        </menu>
+    </item>
+
+</menu>
